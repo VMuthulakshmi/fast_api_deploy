@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: fastapi-app-service
-          image: pearllakhs/fast_api:038fe3375a724038988037fbfbb12c9ada0db1b5
+          image: pearllakhs/fast_api:b917d2f0d734413a3b9ed4feefd41ff7081874b3
           ports:
             - containerPort: 80
           resources:
